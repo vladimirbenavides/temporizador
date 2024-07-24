@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #002345;
+    color: #ABCDEF;
+
+}
+
+h1{
+    text-align: center;
+    margin: 80px 0 20px 0;
+    color: whitesmoke;
+}
+.subtitulo{
+    text-align: center;
+    margin-bottom: 80px;
+    color: whitesmoke;   
+}
+legend{
+    font-size: 1.7em;
+    padding: 0 7px;
+}
+fieldset{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.reloj{
+    font-size: 3em;
+    color: whitesmoke;
+}
+
+footer{
+    margin-top: 50px;
+}
+ p{
+  text-align: center;
+  color: whitesmoke;
+ }
+ a{
+    color: #ABCDEF;;
+ }
